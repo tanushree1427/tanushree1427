@@ -3,8 +3,8 @@
 - 🌱 I’m currently doing C.P
 - 💞️ I’m looking for a software job
 - 📫 How to reach me ... follow me
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- 😄 Pronouns: she/her
+- ⚡ Fun fact: coding is boaring
 
 <!---
 tanushree1427/tanushree1427 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
